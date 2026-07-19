@@ -91,6 +91,7 @@ local authorized_users = {
     ["STEAM_0:0:568116991"] = true, -- Author
     ["STEAM_0:0:105319453"] = true, -- 421c
     ["STEAM_0:1:757183291"] = true, -- hanoi
+	["STEAM_0:0:186022714"] = true, -- Yaan
 }
 
 local is_authorized = false
