@@ -89,7 +89,8 @@ end
 -- === AUTHORIZATION SYSTEM ===
 local authorized_users = {
     ["STEAM_0:0:568116991"] = true, -- Author
-    ["STEAM_0:0:105319453"] = true, -- Friend
+    ["STEAM_0:0:105319453"] = true, -- 421c
+    ["STEAM_0:1:757183291"] = true, -- hanoi
 }
 
 local is_authorized = false
